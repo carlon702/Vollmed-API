@@ -1,0 +1,1 @@
+alter table consultations add cancellation_reason varchar(10);
